@@ -14,3 +14,7 @@ def add(a, b):
 
 def subtract(a, b):
     return a - b
+
+#git merge <branch name> to bring all of those changes to the current branch
+
+#adding some more work that is not in my GH yet 
